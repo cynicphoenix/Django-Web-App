@@ -1,9 +1,9 @@
 # Django Timeline Progress
 
-- Day 1  : Installed Django & pip
-- Day 2  : Applications & Routes + Templates
-- Day 3  : Admin Page + Database & Migrations
-- Day 4  : User Registration + Login & Logout
+- [x] Day 1  : Installed Django & pip 
+- [x] Day 2  : Applications & Routes + Templates
+- [x] Day 3  : Admin Page + Database & Migrations
+- [x] Day 4  : User Registration + Login & Logout
 - Day 5  : User Profile & Picture + Update Feature
 - Day 6  : Create, Update & Delete Posts
 - Day 7  : Pagination + Email & Password Reset
